@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://welllog-analytics-portal-3.onrender.com';
 
 // Get auth token from localStorage
 const getToken = () => localStorage.getItem('token');
